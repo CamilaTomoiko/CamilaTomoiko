@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+my name  Camila ,  I'm a student
+link para contact
+https://www.linkedin.com/in/camila-s-34974215a/
 
 <!--
 **CamilaTomoiko/CamilaTomoiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
